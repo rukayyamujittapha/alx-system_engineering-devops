@@ -1,2 +1,6 @@
 #!/bin/bash
-Hello, World
+echo "Hello, World"
+chmod u+x 0-hello_world
+git add .
+git commit -m "Task 0"
+git push
